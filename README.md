@@ -2,4 +2,4 @@
 
 
 - 🔭 I’m currently working at VITTA
-- 🌱 I’m currently learning JS, CSS, HTML, Node, SQL
+- 🌱 I’m currently learning JS, Node, SQ and CYPRESS
